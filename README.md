@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey There! I'm Nathan!:
 🔭 I’m currently working on AI Agents and OS Assignments<br>🌱 I’m currently learning AWS, Docker and Spring (and how to cook)<br>📫 How to reach me nathancarlomaniego[at]outlook.com<br>👨‍💻 All of my projects are available at https://www.nathanmaniego.com/<br>📄 Know about my experiences https://drive.google.com/file/d/1ZCCvQgkCircQr9MiddX2ouyTfzfdrwjQ/view?usp=sharing<br>⚡ Fun fact I enjoy learning about personal finance
 
 
