@@ -1,13 +1,12 @@
 # Hey, I'm Nathan 👋
 
-Computer Science student at the **University of Toronto** (Honours B.Sc., Co-op · minor in Business & Mathematics · grad May 2028), currently a **Software Engineering co-op at Environment and Climate Change Canada** on the Weather Exchange Operations (WXO) team.
+Computer Science student at the **University of Toronto** (Honours B.Sc., Co-op · minor in Business & Mathematics · grad May 2028), currently a **Software Engineering co-op at Environment and Climate Change Canada**.
 
-- 🌦️ **At work:** helping lead the beta modernization of [weather.gc.ca](https://weather.gc.ca): building new climate-data APIs (MODEX) and modernizing the UI/UX. Also shipping Angular apps (Message Centre, DMS) and Vue/PHP features on the main weather app.
+- 🌦️ **At work:** helping lead the beta modernization of [weather.gc.ca](https://weather.gc.ca): integrating new climate-data APIs (MODEX) and modernizing the UI/UX. Also shipping Angular apps and Vue/PHP features on the main weather app.
 - 🔨 **On the side:** building a Canadian budgeting app for iOS (SwiftUI + Plaid) and an AI screen assistant.
-- 🌱 **Learning:** AWS, Docker, Spring, and how to cook
-- ⚡ **Fun fact:** I'm into personal finance
+- 🌱 **Learning:** AI agents and LLM apps (multi-agent workflows, tool use, building on Gemini and Claude), SwiftUI (shipping my first iOS app), and filming/editing videos.
 - 📫 **Reach me:** nathancarlomaniego [at] outlook.com · [LinkedIn](https://linkedin.com/in/nathanmaniego) · [nathanmaniego.com](https://www.nathanmaniego.com/)
-- 📄 **Resume:** [View here](https://drive.google.com/file/d/1ZCCvQgkCircQr9MiddX2ouyTfzfdrwjQ/view?usp=sharing)
+- 📄 **Resume:** [View here](https://www.nathanmaniego.com/resume.pdf)
 
 ## 🚀 Featured
 
